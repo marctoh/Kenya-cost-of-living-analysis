@@ -1,4 +1,6 @@
-# Kenya Cost of Living Analysis: CPI Trends, July 2023 - August 2026
+
+![Dashboard Demo](assets/cpi_dashboard_review.gif)
+# Kenya Cost of Living Analysis: CPI Trends, July 2023 - July 2026
 
 A data pipeline and analysis of Kenya's Consumer Price Index (CPI) and inflation,
 built from 37 monthly reports published by the Kenya National Bureau of Statistics
