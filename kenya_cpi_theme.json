@@ -1,0 +1,18 @@
+{
+  "name": "Kenya CPI Dashboard Theme",
+  "dataColors": [
+    "#1F77B4",
+    "#D6298E",
+    "#D62728",
+    "#2CA02C",
+    "#FF7F0E",
+    "#9467BD",
+    "#8C564B",
+    "#7F7F7F",
+    "#BCBD22",
+    "#17BECF"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#333333",
+  "tableAccent": "#1F77B4"
+}

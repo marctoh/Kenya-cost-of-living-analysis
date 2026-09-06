@@ -1,0 +1,33 @@
+date,category,mom_change_pct,category_avg_change,category_typical_swing,z_score,direction
+2024-12-01,Clothing and Footwear,2.0,0.25,0.33,5.28,SPIKE
+2024-08-01,"Alcoholic Beverages, Tobacco and Narcotics",1.9,0.42,0.37,4.01,SPIKE
+2026-01-01,Education Services,2.1,0.21,0.51,3.74,SPIKE
+2024-01-01,"Recreation, Sport and Culture",1.3,0.3,0.28,3.56,SPIKE
+2026-04-01,Transport,6.5,0.71,1.64,3.53,SPIKE
+2024-11-01,Insurance and Financial Services,0.6,0.08,0.15,3.4,SPIKE
+2026-05-01,Transport,6.1,0.71,1.64,3.28,SPIKE
+2024-01-01,Education Services,1.8,0.21,0.51,3.14,SPIKE
+2026-08-01,Information and Communication,0.4,0.07,0.11,3.09,SPIKE
+2025-08-01,"Furnishings, Household Equipment and Routine Household Maintenance",-0.2,0.26,0.16,-2.87,DROP
+2024-01-01,"Furnishings, Household Equipment and Routine Household Maintenance",0.7,0.26,0.16,2.8,SPIKE
+2025-01-01,Education Services,1.6,0.21,0.51,2.75,SPIKE
+2026-01-01,Insurance and Financial Services,0.5,0.08,0.15,2.74,SPIKE
+2026-01-01,Health,0.6,0.24,0.13,2.7,SPIKE
+2023-08-01,Information and Communication,-0.2,0.07,0.11,-2.59,DROP
+2023-10-01,"Housing, Water, Electricity, Gas and Other Fuels",1.9,0.22,0.66,2.57,SPIKE
+2025-01-01,"Recreation, Sport and Culture",1.0,0.3,0.28,2.5,SPIKE
+2026-08-01,"Recreation, Sport and Culture",1.0,0.3,0.28,2.5,SPIKE
+2024-02-01,"Personal Care, Social Protection and Miscellaneous Goods and Services",0.6,0.3,0.13,2.36,SPIKE
+2024-05-01,Food and Non-Alcoholic Beverages,2.0,0.56,0.62,2.32,SPIKE
+2024-04-01,"Housing, Water, Electricity, Gas and Other Fuels",-1.3,0.22,0.66,-2.31,DROP
+2023-07-01,"Housing, Water, Electricity, Gas and Other Fuels",-1.2,0.22,0.66,-2.16,DROP
+2024-08-01,Information and Communication,0.3,0.07,0.11,2.14,SPIKE
+2023-12-01,Information and Communication,0.3,0.07,0.11,2.14,SPIKE
+2023-07-01,"Alcoholic Beverages, Tobacco and Narcotics",1.2,0.42,0.37,2.12,SPIKE
+2024-01-01,"Housing, Water, Electricity, Gas and Other Fuels",1.6,0.22,0.66,2.11,SPIKE
+2026-08-01,Insurance and Financial Services,0.4,0.08,0.15,2.08,SPIKE
+2023-08-01,Insurance and Financial Services,0.4,0.08,0.15,2.08,SPIKE
+2024-10-01,Restaurants and Accommodation Services,0.6,0.28,0.15,2.08,SPIKE
+2024-01-01,Restaurants and Accommodation Services,0.6,0.28,0.15,2.08,SPIKE
+2024-06-01,Restaurants and Accommodation Services,0.6,0.28,0.15,2.08,SPIKE
+2024-08-01,Food and Non-Alcoholic Beverages,-0.7,0.56,0.62,-2.02,DROP
