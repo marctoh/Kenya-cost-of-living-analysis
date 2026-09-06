@@ -1,9 +1,9 @@
 
 ![Dashboard Demo](assets/cpi_dashboard_review.gif)
-# Kenya Cost of Living Analysis: CPI Trends, July 2023 - July 2026
+# Kenya Cost of Living Analysis: CPI Trends, July 2023 - Present
 
 A data pipeline and analysis of Kenya's Consumer Price Index (CPI) and inflation,
-built from 37 monthly reports published by the Kenya National Bureau of Statistics
+built from 38 monthly reports published by the Kenya National Bureau of Statistics
 (KNBS). The project traces how the cost of living moved over three years, identifies
 which spending categories drove it, and investigates the real-world events behind
 the largest anomalies.
@@ -15,7 +15,7 @@ drove the biggest shifts?
 
 ## Data source
 
-37 monthly "Consumer Price Indices and Inflation Rates" PDF reports, downloaded
+38 monthly "Consumer Price Indices and Inflation Rates" PDF reports, downloaded
 directly from [knbs.or.ke](https://www.knbs.or.ke). Each report publishes the
 overall CPI, the year-on-year inflation rate, and a breakdown across 13 standardized
 expenditure categories (COICOP divisions) covering everything from food to
@@ -33,7 +33,7 @@ Four scripts, run in order, each producing the input for the next:
 | `deep_analysis.py` | Zooms into the top categories (Transport, Food) against the overall trend; flags the single biggest month-over-month swings | PNG charts, console report |
 | `anomaly_detector.py` | Statistical anomaly detection - flags any category's month where it moved unusually far from *its own* historical average (z-score method, not a fixed global threshold) | `anomalies_report.csv`, PNG charts |
 
-**A note on data quality:** roughly 5 of the 37 source PDFs were scanned images
+**A note on data quality:** roughly 5 of the 38 source PDFs were scanned images
 rather than digital text, meaning their category tables couldn't be reliably
 OCR'd. Those specific months' category-level figures were manually verified
 against the original PDF tables rather than guessed at. This is documented
